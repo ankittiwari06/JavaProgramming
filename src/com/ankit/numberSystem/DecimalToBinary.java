@@ -39,5 +39,4 @@ public class DecimalToBinary {
 		System.out.print("Binary Number is ");
 		binaryNumber(dec_num);
 	}
-
 }
